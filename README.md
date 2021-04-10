@@ -15,4 +15,5 @@ kemudian tambahkan <link> untuk menunjuk file css yang sudah dibuat pada bagian 
  ![WEB CSS (4)](https://user-images.githubusercontent.com/56400200/114252784-3ae17200-99d1-11eb-8c17-d2536ba6789d.PNG)
  Langkah ke 5 selanjutnya yaitu menambahkan css selector menggunakan ID dan class selectore pada file style_eksternal.css yang tadi sudah di buat, kemudian simpan dan lihat di browse,r refresh dan lihat hasilnya.
 ![WEB CSS 5](https://user-images.githubusercontent.com/56400200/114252828-74b27880-99d1-11eb-9f34-7f6df275066e.PNG)
- 
+ ![WEB CSS (5)](https://user-images.githubusercontent.com/56400200/114252885-c0fdb880-99d1-11eb-9240-11b585a96912.PNG)
+
