@@ -7,7 +7,7 @@ Langkah ke dua tambahkan deklarasi css internal seperti di lihat di bawah ini. d
 ![WEB CSS (2)](https://user-images.githubusercontent.com/56400200/114252410-269c7580-99cf-11eb-97dc-9d9c60cfc736.PNG)
 Langkah selanjutnya,yang ke 3 yaitu,tambahkan deklarasi inline css pada tag <p> dan lihat pada browser refresh kembali lihat hasil dan perubahannya. Dan tulisannya pun berubah minjadi white.
 ![WEB CSS 3](https://user-images.githubusercontent.com/56400200/114252461-91e64780-99cf-11eb-91bf-4113a1c6f67b.PNG)
-
+![WEB CSS (3)](https://user-images.githubusercontent.com/56400200/114252631-73cd1700-99d0-11eb-902e-bb0d0aef876e.PNG)
 Selanjutnya yang ke 4 membuat file baru terlebih dahulu dengan menamakan style_eksternal.css dan langsung mengodingnya seperti di bawah ini
 
 kemudian tambahkan <link> untuk menunjuk file css yang sudah dibuat pada bagian <head> dan kodingan ini tetap di tempatkan pada lab2_css_dasar.html kemudian lihat lagi di browser dan lihat hasil dan perubahannya.
