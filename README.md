@@ -17,4 +17,13 @@ kemudian tambahkan <link> untuk menunjuk file css yang sudah dibuat pada bagian 
  Langkah ke 5 selanjutnya yaitu menambahkan css selector menggunakan ID dan class selectore pada file style_eksternal.css yang tadi sudah di buat, kemudian simpan dan lihat di browse,r refresh dan lihat hasilnya.
 ![WEB CSS 5](https://user-images.githubusercontent.com/56400200/114252828-74b27880-99d1-11eb-9f34-7f6df275066e.PNG)
  ![WEB CSS (5)](https://user-images.githubusercontent.com/56400200/114252885-c0fdb880-99d1-11eb-9240-11b585a96912.PNG)
-
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya! 
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (<p id="paragraf-1" class="text-paragraf">) 
+Jawaban
+ 
+Jawaban no 2.Elemen <h1> ini kita buat supaya tulisannya rata tengah, maka kita beri property text-align dengan value center. Property dan value CSS dipisahkan dengan tanda titik dua (:). Kita dapat memberikan lebih dari satu property style dengan memisahkan antar property dengan tanda titik koma (;).  property dan value disimpan di dalam kurung kurawal { dan }.
+ 
+jawaban no 3.yang akan ditampilkan pada browser yaitu Inline CSS karena inline css Sangat membantu ketika Anda hanya ingin menguji dan melihat perubahan pada satu elemen yaitu seperti pada browser.Contohnya:penempatan kode dari Inline CSS:<h2 style="color:blue; font-family: arial;">Niagahoster</h2>.
+Jawaban no 4. yang akan ditampilkan pada browser yaitu Class.Class merupakan selector yang dapat kita digunakan oleh lebih dari satu tag html. Artinya beberapa tag html bisa menggunakan css dari class tersebut.Tag class dengan nama yang sama dapat dipakai berulang-ulang pada satu halaman.Satu elemen boleh memiliki lebih dari satu Class yang berbeda-beda.
