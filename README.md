@@ -9,7 +9,7 @@ Langkah selanjutnya,yang ke 3 yaitu,tambahkan deklarasi inline css pada tag <p> 
 ![WEB CSS 3](https://user-images.githubusercontent.com/56400200/114252461-91e64780-99cf-11eb-91bf-4113a1c6f67b.PNG)
 ![WEB CSS (3)](https://user-images.githubusercontent.com/56400200/114252631-73cd1700-99d0-11eb-902e-bb0d0aef876e.PNG)
 Selanjutnya yang ke 4 membuat file baru terlebih dahulu dengan menamakan style_eksternal.css dan langsung mengodingnya seperti di bawah ini
-
+![WEB CSS 4](https://user-images.githubusercontent.com/56400200/114252719-e807ba80-99d0-11eb-895e-382e2c387f22.PNG)
 kemudian tambahkan <link> untuk menunjuk file css yang sudah dibuat pada bagian <head> dan kodingan ini tetap di tempatkan pada lab2_css_dasar.html kemudian lihat lagi di browser dan lihat hasil dan perubahannya.
   
 Langkah ke 5 selanjutnya yaitu menambahkan css selector menggunakan ID dan class selectore pada file style_eksternal.css yang tadi sudah di buat, kemudian simpan dan lihat di browse,r refresh dan lihat hasilnya.
